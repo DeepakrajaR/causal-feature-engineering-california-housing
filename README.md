@@ -33,9 +33,9 @@ This project explores advanced feature engineering techniques using the Californ
 git clone https://github.com/yourusername/causal-feature-engineering.git
 cd causal-feature-engineering
 pip install -r requirements.txt
-
+```
 ## 🏃 Usage
-'Open the Jupyter Notebook:'
+Open the Jupyter Notebook:
 jupyter notebook Causal_Feature_Engineering.ipynb
 
 ## 📊 Key Findings
@@ -44,23 +44,10 @@ Improved model performance through advanced feature engineering
 Insights into causal relationships in housing prices
 Demonstrated feature transformation techniques
 
-## 📈 Performance Metrics
-
-Original Features R-squared: 0.5758
-Engineered Features R-squared: 0.6063
-Performance Improvement: ~5%
-
-## 🤝 Contributing
-
-Fork the repository
-Create your feature branch
-Commit your changes
-Push to the branch
-Create a Pull Request
-
 ## 📜 License
 MIT License
-🙌 Acknowledgments
+
+## 🙌 Acknowledgments
 
 Scikit-learn for the California Housing dataset
 Course project inspiration
